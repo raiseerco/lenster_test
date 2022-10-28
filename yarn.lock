@@ -1520,10 +1520,10 @@
     react-use "17.4.0"
     throttle-debounce "^3.0.1"
 
-"@graphql-codegen/cli@^2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@graphql-codegen/cli/-/cli-2.13.6.tgz#70e2f93aa51f5350af821063368953a667b161de"
-  integrity sha512-3Q7/aRFPJnd7Zd+gMM/cymUYdaS8dHc+7D6kkEDhYo/rVDusnPMdBkYQ9XUT4UIqE7TZ+gX3yedBsqOeyJyg1Q==
+"@graphql-codegen/cli@^2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@graphql-codegen/cli/-/cli-2.13.8.tgz#2ef3972284f63540c26fcad28374351eb627592b"
+  integrity sha512-xX+lT51nMBD3b6lDyA+BDyJoEKnsPMctM/Fx8st0gEy7ZgdWLrsgOBOn4k71yyejOy3CHnRV5LMKWdhiQDaYsA==
   dependencies:
     "@babel/generator" "^7.18.13"
     "@babel/template" "^7.18.10"
@@ -1536,7 +1536,7 @@
     "@graphql-tools/github-loader" "^7.3.6"
     "@graphql-tools/graphql-file-loader" "^7.5.0"
     "@graphql-tools/json-file-loader" "^7.4.1"
-    "@graphql-tools/load" "^7.7.1"
+    "@graphql-tools/load" "7.8.0"
     "@graphql-tools/prisma-loader" "^7.2.7"
     "@graphql-tools/url-loader" "^7.13.2"
     "@graphql-tools/utils" "^8.9.0"
@@ -1757,10 +1757,10 @@
     tslib "^2.4.0"
     unixify "^1.0.0"
 
-"@graphql-tools/load@^7.5.5", "@graphql-tools/load@^7.7.1":
-  version "7.7.7"
-  resolved "https://registry.yarnpkg.com/@graphql-tools/load/-/load-7.7.7.tgz#0d6fb0804177658f609562982a6a68e008073ca0"
-  integrity sha512-IpI2672zcoAX4FLjcH5kvHc7eqjPyLP1svrIcZKQenv0GRS6dW0HI9E5UCBs0y/yy8yW6s+SvpmNsfIlkMj3Kw==
+"@graphql-tools/load@7.8.0", "@graphql-tools/load@^7.5.5":
+  version "7.8.0"
+  resolved "https://registry.yarnpkg.com/@graphql-tools/load/-/load-7.8.0.tgz#bd4d2e2a5117de9a60f9691a218217e96afc2ea7"
+  integrity sha512-l4FGgqMW0VOqo+NMYizwV8Zh+KtvVqOf93uaLo9wJ3sS3y/egPCgxPMDJJ/ufQZG3oZ/0oWeKt68qop3jY0yZg==
   dependencies:
     "@graphql-tools/schema" "9.0.4"
     "@graphql-tools/utils" "8.12.0"
